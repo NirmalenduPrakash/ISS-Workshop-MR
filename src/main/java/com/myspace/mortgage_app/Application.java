@@ -21,6 +21,7 @@ public class Application implements java.io.Serializable {
 	@org.kie.api.definition.type.Label("Mortgage amount")
 	private java.lang.Integer mortgageamount;
 
+	@org.kie.api.definition.type.Label("inlimit Machine Reasoning")
 	private java.lang.Boolean inlimitMR;
 
 	public Application() {
